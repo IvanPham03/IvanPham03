@@ -15,6 +15,7 @@ Software Engineer focused on building reliable production systems. My work revol
 I value clean API design, system predictability, and maintainable codebases.
 
 **Focus:** Backend Engineering • AI Integration • System Scalability
+
 **Current:** Developing cloud-native systems & AI workflows.
 
 Explore my projects and experiments: [phamdangtruong.io.vn](https://phamdangtruong.io.vn)
