@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=header&text=Truong%20Pham&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Truong%20Pham&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer&descSize=20&descAlignY=65)
 
 <div align="center">
   
@@ -45,16 +45,11 @@ Portfolio: [phamdangtruong.io.vn](https://phamdangtruong.io.vn)
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://phamdangtruong.io.vn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/truong-pham-dang-079683240/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangtruongphamvn@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IvanPham03)
 
 Open to backend, platform, or infrastructure-focused opportunities.
 
 </div>
 
----
-
-<div align="center">
-  
-Pinned repositories highlight selected backend, infrastructure, and system-design projects.
-
-</div>
