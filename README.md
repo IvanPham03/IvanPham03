@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=soft&color=000000&height=150&section=header&text=Truong%20Pham&fontSize=70&fontColor=ffffff&fontAlignY=50&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Truong%20Pham&fontSize=80&fontColor=ffffff&fontAlignY=50&animation=fadeIn)
 
 <div align="center">
   
