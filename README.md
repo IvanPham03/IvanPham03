@@ -10,12 +10,14 @@
 
 ## About
 
-Software Engineer focused on architecting reliable production systems. I build at the intersection of Python/TypeScript ecosystems, AI integration (RAG/LLM), and distributed infrastructure.
+Software Engineer focused on building reliable production systems. My work revolves around Python and TypeScript ecosystems, AI integration (RAG/LLM), and backend infrastructure.
 
-I value system predictability, clean API design, and long-term maintainability.
+I value clean API design, system predictability, and maintainable codebases.
 
-**Focus:** Scalable Backends • AI Systems • Cloud Architecture
-**Current:** Exploring cloud-native optimizations and AI-assisted workflows.
+**Focus:** Backend Engineering • AI Integration • System Scalability
+**Current:** Developing cloud-native systems and optimizing AI workflows.
+
+Explore my projects and experiments: [phamdangtruong.io.vn](https://phamdangtruong.io.vn)
 
 ## Tech Stack
 
@@ -41,7 +43,6 @@ I value system predictability, clean API design, and long-term maintainability.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://phamdangtruong.io.vn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/truong-pham-dang-079683240/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangtruongphamvn@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IvanPham03)
