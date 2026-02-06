@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Truong%20Pham&fontSize=80&fontColor=ffffff&fontAlignY=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=transparent&text=Ivan%20Pham&fontSize=90&fontColor=ffffff&fontAlignY=50&animation=fadeIn)
 
 <div align="center">
   
@@ -20,24 +20,22 @@ Portfolio: [phamdangtruong.io.vn](https://phamdangtruong.io.vn)
 
 ## Tech Stack
 
-<div align="center">
+**Python**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,pytorch,tensorflow,opencv,sklearn,selenium&perline=15" />
+</div>
 
-![Python](https://skillicons.dev/icons?i=python)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![React](https://skillicons.dev/icons?i=react)
-![Three.js](https://skillicons.dev/icons?i=threejs)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Git](https://skillicons.dev/icons?i=git)
+**JS / TS**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,nestjs,react,redux,express,electron,vite,pnpm,yarn,npm,webpack,babel&perline=15" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,threejs,jquery,vue,nuxtjs,svelte,angular,prisma,graphql,apollo,jest,cypress&perline=15" />
+</div>
 
+**Also worked with:**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,arch,redhat,docker,kubernetes,nginx,aws,azure,googlecloud,cloudflare,vercel,netlify,heroku,firebase,supabase,appwrite&perline=15" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,cassandra,redis,sequelize,githubactions,gitlab,terraform,ansible,jenkins&perline=15" />
+  <img src="https://skillicons.dev/icons?i=go,rust,cpp,c,cs,java,spring,php,laravel,dart,swift,kotlin,ruby,perl,lua,zig,haskell,elixir,solidity,flutter,postman,grafana,prometheus,elasticsearch,vim,vscode&perline=15" />
 </div>
 
 ## Contact
