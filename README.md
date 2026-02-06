@@ -10,13 +10,12 @@
 
 ## About
 
-Software engineer focused on building production systems. Currently working with Python/TypeScript ecosystems, AI engineering (RAG/LLM), and distributed architectures. Experience spans backend APIs, web applications, and cloud-native infrastructure.
+Software Engineer focused on architecting reliable production systems. I build at the intersection of Python/TypeScript ecosystems, AI integration (RAG/LLM), and distributed infrastructure.
 
-Currently exploring cloud-native backend systems and AI-assisted workflows.
+I value system predictability, clean API design, and long-term maintainability.
 
-I care about clean APIs, predictable systems, and long-term maintainability.
-
-Portfolio: [phamdangtruong.io.vn](https://phamdangtruong.io.vn)
+**Focus:** Scalable Backends • AI Systems • Cloud Architecture
+**Current:** Exploring cloud-native optimizations and AI-assisted workflows.
 
 ## Tech Stack
 
