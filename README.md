@@ -4,11 +4,17 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+%2B+AI+Systems)](https://git.io/typing-svg)
 
+**I build reliable backend systems with a strong focus on security and scalability.**
+
 </div>
 
 ## About
 
-Software engineer focused on building production systems. Currently working with Python/TypeScript ecosystems, AI engineering (RAG/LLM), and distributed architectures. Experience spans backend APIs, 3D web applications, and cloud-native infrastructure.
+Software engineer focused on building production systems. Currently working with Python/TypeScript ecosystems, AI engineering (RAG/LLM), and distributed architectures. Experience spans backend APIs, web applications, and cloud-native infrastructure.
+
+Currently exploring cloud-native backend systems and AI-assisted workflows.
+
+I care about clean APIs, predictable systems, and long-term maintainability.
 
 Portfolio: [phamdangtruong.io.vn](https://phamdangtruong.io.vn)
 
@@ -34,18 +40,14 @@ Portfolio: [phamdangtruong.io.vn](https://phamdangtruong.io.vn)
 
 </div>
 
-## GitHub Stats
+## Contact
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IvanPham03&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanPham03&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" alt="GitHub Streak" height="165" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://phamdangtruong.io.vn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IvanPham03)
 
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IvanPham03&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+Open to backend, platform, or infrastructure-focused opportunities.
 
 </div>
 
@@ -53,6 +55,6 @@ Portfolio: [phamdangtruong.io.vn](https://phamdangtruong.io.vn)
 
 <div align="center">
   
-Check pinned repositories below for selected projects.
+Pinned repositories highlight selected backend, infrastructure, and system-design projects.
 
 </div>
