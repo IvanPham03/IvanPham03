@@ -33,7 +33,7 @@ Explore my projects and experiments: [phamdangtruong.io.vn](https://phamdangtruo
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,threejs,jquery,vue,nuxtjs,svelte,angular,prisma,graphql,apollo,jest,cypress&perline=15" />
 </div>
 
-**Also explored:**
+**Also explored**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,arch,redhat,docker,kubernetes,nginx,aws,azure,googlecloud,cloudflare,vercel,netlify,heroku,firebase,supabase,appwrite&perline=15" />
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,cassandra,redis,sequelize,githubactions,gitlab,terraform,ansible,jenkins&perline=15" />
