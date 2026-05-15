@@ -26,7 +26,7 @@ Portfolio: [phamdangtruong.io.vn](https://phamdangtruong.io.vn)
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nextjs,nodejs&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python&perline=6" />
 </div>
 
 ## Contact
