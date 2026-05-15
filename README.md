@@ -2,15 +2,17 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+%26+AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer)](https://git.io/typing-svg)
 
-**End-to-end AI and full-stack systems — from product to production.**
+**Building products across AI, Fintech, and Security — with a business-first mindset.**
 
 </div>
 
 ## About
 
-Software Engineer specializing in **JavaScript**, **TypeScript**, and **Python**. I design and ship intelligent applications, scalable backends, and production-ready web platforms for clients and product teams.
+**Software Engineer** working with **JavaScript**, **TypeScript**, and **Python**.
+
+Currently focused on **AI**, **Fintech**, **Security**, and solutions shaped by a strong **business mindset** — from intelligent workflows to reliable, production-ready systems.
 
 **Highlights**
 
@@ -35,6 +37,6 @@ Portfolio: [phamdangtruong.io.vn](https://phamdangtruong.io.vn)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangtruongphamvn@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IvanPham03)
 
-Open to senior full-stack, AI engineering, and platform opportunities.
+Open to opportunities in AI, Fintech, Security, and full-stack product engineering.
 
 </div>
