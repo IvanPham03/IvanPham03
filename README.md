@@ -2,42 +2,29 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+%2B+AI+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+%26+AI+Engineer)](https://git.io/typing-svg)
 
-**I build reliable backend systems with a strong focus on security and scalability.**
+**End-to-end AI and full-stack systems — from product to production.**
 
 </div>
 
 ## About
 
-Software Engineer focused on building reliable production systems. My work revolves around Python and TypeScript ecosystems, AI integration (RAG/LLM), and backend infrastructure.
+Software Engineer specializing in **JavaScript**, **TypeScript**, and **Python**. I design and ship intelligent applications, scalable backends, and production-ready web platforms for clients and product teams.
 
-I value clean API design, system predictability, and maintainable codebases.
+**Highlights**
 
-**Focus:** Backend Engineering • AI Integration • System Scalability
+- Built and delivered end-to-end AI and full-stack solutions across web, backend, and intelligent applications
+- Developed multi-agent and LLM-powered systems for e-commerce automation, chatbots, and intelligent workflows
+- Designed and integrated scalable APIs, CMS platforms, and custom business solutions for multiple clients
+- Worked across full-stack technologies including Next.js, TypeScript, Python, and cloud-based deployments
 
-**Current:** Developing cloud-native systems & AI workflows.
-
-Explore my projects and experiments: [phamdangtruong.io.vn](https://phamdangtruong.io.vn)
+Portfolio: [phamdangtruong.io.vn](https://phamdangtruong.io.vn)
 
 ## Tech Stack
 
-**Python**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,pytorch,tensorflow,opencv,sklearn,selenium&perline=15" />
-</div>
-
-**JS / TS**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,nestjs,react,redux,express,electron,vite,pnpm,yarn,npm,webpack,babel&perline=15" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,threejs,jquery,vue,nuxtjs,svelte,angular,prisma,graphql,apollo,jest,cypress&perline=15" />
-</div>
-
-**Also explored**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,arch,redhat,docker,kubernetes,nginx,aws,azure,googlecloud,cloudflare,vercel,netlify,heroku,firebase,supabase,appwrite&perline=15" />
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,cassandra,redis,sequelize,githubactions,gitlab,terraform,ansible,jenkins&perline=15" />
-  <img src="https://skillicons.dev/icons?i=go,rust,cpp,c,cs,java,spring,php,laravel,dart,swift,kotlin,ruby,perl,lua,zig,haskell,elixir,solidity,flutter,postman,grafana,prometheus,elasticsearch,vim,vscode&perline=15" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nextjs,nodejs&perline=6" />
 </div>
 
 ## Contact
@@ -48,7 +35,6 @@ Explore my projects and experiments: [phamdangtruong.io.vn](https://phamdangtruo
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangtruongphamvn@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IvanPham03)
 
-Open to backend, platform, or infrastructure-focused opportunities.
+Open to senior full-stack, AI engineering, and platform opportunities.
 
 </div>
-
